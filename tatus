@@ -1,0 +1,36 @@
+[33mcommit 476aad34ad19b247f238616188c3da58d1341136[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m)[m
+Merge: 8a66b3e e8b2762
+Author: Lavanuru <v.lavanuru@dxc.com>
+Date:   Sun Mar 31 11:21:40 2024 +0530
+
+    Merge branch 'test'
+
+[33mcommit e8b276298f510572f5e778bc7212d42e33f5f791[m[33m ([m[1;31morigin/test[m[33m, [m[1;32mtest[m[33m)[m
+Author: Lavanuru <v.lavanuru@dxc.com>
+Date:   Sun Mar 31 10:36:58 2024 +0530
+
+    fine3 commited in test
+
+[33mcommit c617a32ece6cd1d48fc9a7368a016cd188ecff84[m
+Author: Lavanuru <v.lavanuru@dxc.com>
+Date:   Sat Mar 30 17:26:48 2024 +0530
+
+    ram file commited
+
+[33mcommit 8a66b3ebb900d77fe77190dda9c120c421283337[m
+Author: Lavanuru <v.lavanuru@dxc.com>
+Date:   Sat Mar 30 16:19:30 2024 +0530
+
+    commited
+
+[33mcommit 84e2190342f30c45b05139a9685a7d540b068a96[m
+Author: Lavanuru <v.lavanuru@dxc.com>
+Date:   Thu Mar 14 15:24:09 2024 +0530
+
+    adding file3 and file4
+
+[33mcommit d6d2776ebe1c57c5076b23ad1fb21f46040018e1[m
+Author: Lavanuru <v.lavanuru@dxc.com>
+Date:   Thu Mar 14 13:36:42 2024 +0530
+
+    1st commit
